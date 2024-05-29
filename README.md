@@ -20,7 +20,6 @@ The FAQ section provides a clean and interactive way to display frequently asked
 To get started with the project, clone the repository and install the necessary dependencies.
 
 
-
 ### Clone the Repository
 
 ```bash
@@ -29,4 +28,12 @@ cd faq-typescript-react
 ```
 
 ## Install the necessary dependencies
+
+```bash
 npm install
+```
+
+## Run React
+
+```bash
+npm start
